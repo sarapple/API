@@ -54,11 +54,10 @@ return [
 
 		'mysql' => [
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'unix_socket'   => '/Applications/MAMP/tmp/mysql/mysql.sock',
-			'database'  => 'final',
-			'username'  => 'root',
-			'password'  => 'root',
+			'host'      => 'api-laravel.mysql.eu1.frbit.com',
+			'database'  => 'api-laravel',
+			'username'  => 'api-laravel',
+			'password'  => 'og-1tfDPvLmwJTE8Lm.=dOAk',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
