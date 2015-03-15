@@ -3,7 +3,7 @@ $(document).ready(function(){
 		var params = $( this ).serialize();
 		$.ajax({
 	  		type: "GET",
-	 		url: "/demographics/" + params,
+	 		url: "demographics/" + params,
 			datatype: "json"
 			})
 	  	.done(function( msg ) {
