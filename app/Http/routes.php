@@ -13,7 +13,7 @@
 
 Route::get('/', 'ApiController@index');
 
-Route::get('/demographics/{location}', ['uses' =>'ApiController@demographics']);
+Route::get('demographics/{location}', ['uses' =>'ApiController@demographics']);
 
 Route::get('home', 'HomeController@index');
 
