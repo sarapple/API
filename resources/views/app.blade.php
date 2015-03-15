@@ -6,10 +6,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Tell Me About a City</title>
 
-	<link href="public/css/app.css" rel="stylesheet">
+	<link href="css/app.css" rel="stylesheet">
 
-    <script type="text/javascript" src="public/javascripts/jquery.min.js"></script>
-    <script type="text/javascript" src="public/javascripts/tailored.js"></script>
+    <script type="text/javascript" src="javascripts/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/tailored.js"></script>
 	<!-- Fonts -->
 	<link href='//fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
 
